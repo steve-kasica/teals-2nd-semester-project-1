@@ -2,6 +2,8 @@
 
 This repo is a jazzed-up example of [Project 1: Mad Libs](https://tealsk12.gitbook.io/intro-cs-2/unit_1/lesson-5/project) for students taking 2nd Semester Intro to Computer Science through [TEALS](https://www.tealsk12.org). It turns a random story from the front page of today's *New York Times* into a Mad Lib with Python 3. These additional bells and whistles are meant to show students all the different things you can do with the Python programming language.
 
+The original version of this assignment, using the opening crawl from Star Wars, can be found in the [Original branch](https://github.com/swkasica/teals-2nd-semester-project-1/tree/original).
+
 ## API Requirements
 In addition to the requirements in `requirements.txt`, you will need your own API key to run this program. See[the developer website for instructions to [obtain your own key](https://developer.nytimes.com/get-started).
 
